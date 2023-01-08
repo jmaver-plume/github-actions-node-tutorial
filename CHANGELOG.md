@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/jmaver-plume/github-actions-node-tutorial/compare/v1.1.0...v2.0.0) (2023-01-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rename /hello endpoint to /hello-world
+
+### Features
+
+* Rename /hello endpoint to /hello-world ([5535aff](https://github.com/jmaver-plume/github-actions-node-tutorial/commit/5535aff94768ccf7ee411bdcddf2b3d33f365fa9))
+
 ## [1.1.0](https://github.com/jmaver-plume/github-actions-node-tutorial/compare/v1.0.0...v1.1.0) (2023-01-08)
 
 
