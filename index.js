@@ -6,7 +6,7 @@ app.get("/ping", (req, res) => {
   res.send("pong");
 });
 
-app.get("/hello", (req, res) => {
+app.get("/hello-world", (req, res) => {
   res.send("Hello World!");
 });
 
